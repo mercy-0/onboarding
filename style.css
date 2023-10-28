@@ -40,10 +40,12 @@ img{
     
 }
 .skip-2{
-    font-size: 20px;
+   font-size: 20px;
     position: absolute;
-    bottom: 40px;
-    left: 560px;
+    /* top: 0; */
+    bottom: -205px;
+    left: 616px;
+
 }
 .button{
     font-size: 20px;
